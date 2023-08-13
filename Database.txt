@@ -1,0 +1,4 @@
+Febricit_Lek Febricet se koristi u terapiji blagog do umerenog bola poput glavobolje, migrene, neuralgije, zubobolje_193_100_Not Prescripted
+Mikonazol_Gljivicne infekcije koze i noktiju i sekundarne infekcije izazvane gram-pozitivnim bakterijama._244_250_Prescripted
+Brufen_Lek BRUFEN se moze kratkotrajno upotrebljavati u terapiji bolnih stanja poput zubobolje, bolova nakon operativnih zahvata, bolnih menstruacija i glavobolje (ukljucujuci migrenu)._327_70_Not Prescripted
+Random_This drug needs a prescription_90_6_Prescripted
